@@ -1,4 +1,4 @@
-# Women Safety App 🚨
+# AVAL - Women Safety App 🚨
 
 ## Overview
 The **Women Safety App** is a real-time safety application designed to enhance security for women by providing emergency alerts, geofencing, crime hotspot detection, and AI-powered assistance. The app ensures quick response and proactive safety measures.
@@ -151,5 +151,6 @@ This project is **open-source** under the [License](LICENSE).
 
 ---
 > *Empowering safety with technology!* 🚀
+
 
 
