@@ -147,8 +147,9 @@ TWILIO_TWIML_URL=your_twiml_url
 - **Wearable Device Integration** for seamless SOS triggers
 
 ## License 📜
-This project is **open-source** under the [MIT License](LICENSE).
+This project is **open-source** under the [License](LICENSE).
 
 ---
 > *Empowering safety with technology!* 🚀
+
 
