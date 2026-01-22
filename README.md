@@ -125,10 +125,11 @@ TWILIO_TWIML_URL=your_twiml_url
     <td><img src="lib/screenshots/5.jpg" width="250"></td>
     <td><img src="lib/screenshots/6.jpg" width="250"></td>
     <td><img src="lib/screenshots/7.jpg" width="250"></td>
-    <td><img src="lib/screenshots/8.jpg" width="250"></td>
+    <!-- <td><img src="lib/screenshots/8.jpg" width="250"></td> -->
+     <td><img src="lib/screenshots/9.jpg" width="250"></td>
   </tr>
   <tr>
-    <td><img src="lib/screenshots/9.jpg" width="250"></td>
+    
     <td><img src="lib/screenshots/10.jpg" width="250"></td>
     <td><img src="lib/screenshots/11.jpg" width="250"></td>
     <td><img src="lib/screenshots/12.jpg" width="250"></td>
@@ -151,6 +152,7 @@ This project is **open-source** under the [License](LICENSE).
 
 ---
 > *Empowering safety with technology!* 🚀
+
 
 
 
